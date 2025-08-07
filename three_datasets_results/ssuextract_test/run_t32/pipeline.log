@@ -1,0 +1,395 @@
+
+[1m[38;5;232m[48;5;43m N E X T F L O W [0;2m  ~  [mversion 25.04.6[m
+[K
+Launching[35m `main.nf` [0;2m[[0;1;36mpensive_poitras[0;2m] DSL2 - [36mrevision: [0;36m2d60c0741a[m
+[K
+[2m[[0;34m-        [0;2m] [0;2m[mCHECK_FNA_HEADERS   -[K
+[2m[[0;34m-        [0;2m] [0;2m[mCMSEARCH            -[K
+[2m[[0;34m-        [0;2m] [0;2m[mGET_CMSTATS         -[K
+[2m[[0;34m-        [0;2m] [0;2m[mEXTRACT_SEQUENCES   -[K
+[2m[[0;34m-        [0;2m] [0;2m[mBLAST_ANNOTATE      -[K
+[2m[[0;34m-        [0;2m] [0;2m[mMERGE_BLAST_RESULTS -[K
+[2m[[0;34m-        [0;2m] [0;2m[mPROCESS_RESULTS     -[K
+[2m[[0;34m-        [0;2m] [0;2m[mBUILD_SUMMARY       -[K
+[9A
+[2mexecutor >  local (3)[m[K
+[2m[[0;34mde/a9972c[0;2m] [0;2m[mCHECK_FNA_HEADERS[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10[2m)[m[2m [[0;34m  0%[0;2m][m 0 of 3[K
+[2m[[0;34m-        [0;2m] [0;2m[mCMSEARCH                                                                              -[K
+[2m[[0;34m-        [0;2m] [0;2m[mGET_CMSTATS                                                                           -[K
+[2m[[0;34m-        [0;2m] [0;2m[mEXTRACT_SEQUENCES                                                                     -[K
+[2m[[0;34m-        [0;2m] [0;2m[mBLAST_ANNOTATE                                                                        -[K
+[2m[[0;34m-        [0;2m] [0;2m[mMERGE_BLAST_RESULTS                                                                   -[K
+[2m[[0;34m-        [0;2m] [0;2m[mPROCESS_RESULTS                                                                       -[K
+[2m[[0;34m-        [0;2m] [0;2m[mBUILD_SUMMARY                                                                         -[K
+[10A
+[2mexecutor >  local (3)[m[K
+[2m[[0;34mde/a9972c[0;2m] [0;2m[mCHECK_FNA_HEADERS[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10[2m)[m[2m [[0;34m  0%[0;2m][m 0 of 3[K
+[2m[[0;34m-        [0;2m] [0;2m[mCMSEARCH                                                                              -[K
+[2m[[0;34m-        [0;2m] [0;2m[mGET_CMSTATS                                                                           -[K
+[2m[[0;34m-        [0;2m] [0;2m[mEXTRACT_SEQUENCES                                                                     -[K
+[2m[[0;34m-        [0;2m] [0;2m[mBLAST_ANNOTATE                                                                        -[K
+[2m[[0;34m-        [0;2m] [0;2m[mMERGE_BLAST_RESULTS                                                                   -[K
+[2m[[0;34m-        [0;2m] [0;2m[mPROCESS_RESULTS                                                                       -[K
+[2m[[0;34m-        [0;2m] [0;2m[mBUILD_SUMMARY                                                                         -[K
+[10A
+[2mexecutor >  local (5)[m[K
+[2m[[0;34mde/a9972c[0;2m] [0;2m[mCHECK_FNA_HEADERS[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10[2m)[m[2m [[0;32m100%[0;2m][m 3 of 3[32m ✔[m[K
+[2m[[0;34m9f/ec4533[0;2m] [0;2m[mCMSEARCH[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000621645__depth10_RF00177[2m)[m [2m [[0;34m  0%[0;2m][m 0 of 6[K
+[2m[[0;34m-        [0;2m] [0;2m[mGET_CMSTATS                                                                           -[K
+[2m[[0;34m-        [0;2m] [0;2m[mEXTRACT_SEQUENCES                                                                     -[K
+[2m[[0;34m-        [0;2m] [0;2m[mBLAST_ANNOTATE                                                                        -[K
+[2m[[0;34m-        [0;2m] [0;2m[mMERGE_BLAST_RESULTS                                                                   -[K
+[2m[[0;34m-        [0;2m] [0;2m[mPROCESS_RESULTS                                                                       -[K
+[2m[[0;34m-        [0;2m] [0;2m[mBUILD_SUMMARY                                                                         -[K
+[10A
+[2mexecutor >  local (6)[m[K
+[2m[[0;34mde/a9972c[0;2m] [0;2m[mCHECK_FNA_HEADERS[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10[2m)[m[2m [[0;32m100%[0;2m][m 3 of 3[32m ✔[m[K
+[2m[[0;34m35/1f32e4[0;2m] [0;2m[mCMSEARCH[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000621645__depth10_RF01960[2m)[m [2m [[0;34m 16%[0;2m][m 1 of 6[K
+[2m[[0;34m-        [0;2m] [0;2m[mGET_CMSTATS                                                                          [2m [[0;34m  0%[0;2m][m 0 of 1[K
+[2m[[0;34m-        [0;2m] [0;2m[mEXTRACT_SEQUENCES                                                                     -[K
+[2m[[0;34m-        [0;2m] [0;2m[mBLAST_ANNOTATE                                                                        -[K
+[2m[[0;34m-        [0;2m] [0;2m[mMERGE_BLAST_RESULTS                                                                   -[K
+[2m[[0;34m-        [0;2m] [0;2m[mPROCESS_RESULTS                                                                       -[K
+[2m[[0;34m-        [0;2m] [0;2m[mBUILD_SUMMARY                                                                         -[K
+[10A
+[2mexecutor >  local (7)[m[K
+[2m[[0;34mde/a9972c[0;2m] [0;2m[mCHECK_FNA_HEADERS[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10[2m)[m[2m [[0;32m100%[0;2m][m 3 of 3[32m ✔[m[K
+[2m[[0;34m9b/423b18[0;2m] [0;2m[mCMSEARCH[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_001457615__depth10_RF00177[2m)[m [2m [[0;34m 33%[0;2m][m 2 of 6[K
+[2m[[0;34m-        [0;2m] [0;2m[mGET_CMSTATS                                                                          [2m [[0;34m  0%[0;2m][m 0 of 2[K
+[2m[[0;34m-        [0;2m] [0;2m[mEXTRACT_SEQUENCES                                                                     -[K
+[2m[[0;34m-        [0;2m] [0;2m[mBLAST_ANNOTATE                                                                        -[K
+[2m[[0;34m-        [0;2m] [0;2m[mMERGE_BLAST_RESULTS                                                                   -[K
+[2m[[0;34m-        [0;2m] [0;2m[mPROCESS_RESULTS                                                                       -[K
+[2m[[0;34m-        [0;2m] [0;2m[mBUILD_SUMMARY                                                                         -[K
+[10A
+[2mexecutor >  local (8)[m[K
+[2m[[0;34mde/a9972c[0;2m] [0;2m[mCHECK_FNA_HEADERS[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10[2m)[m[2m [[0;32m100%[0;2m][m 3 of 3[32m ✔[m[K
+[2m[[0;34mae/b72e49[0;2m] [0;2m[mCMSEARCH[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10_RF00177[2m)[m [2m [[0;34m 50%[0;2m][m 3 of 6[K
+[2m[[0;34m-        [0;2m] [0;2m[mGET_CMSTATS                                                                          [2m [[0;34m  0%[0;2m][m 0 of 3[K
+[2m[[0;34m-        [0;2m] [0;2m[mEXTRACT_SEQUENCES                                                                     -[K
+[2m[[0;34m-        [0;2m] [0;2m[mBLAST_ANNOTATE                                                                        -[K
+[2m[[0;34m-        [0;2m] [0;2m[mMERGE_BLAST_RESULTS                                                                   -[K
+[2m[[0;34m-        [0;2m] [0;2m[mPROCESS_RESULTS                                                                       -[K
+[2m[[0;34m-        [0;2m] [0;2m[mBUILD_SUMMARY                                                                         -[K
+[10A
+[2mexecutor >  local (9)[m[K
+[2m[[0;34mde/a9972c[0;2m] [0;2m[mCHECK_FNA_HEADERS[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10[2m)[m[2m [[0;32m100%[0;2m][m 3 of 3[32m ✔[m[K
+[2m[[0;34ma3/60aed0[0;2m] [0;2m[mCMSEARCH[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10_RF01960[2m)[m [2m [[0;34m 66%[0;2m][m 4 of 6[K
+[2m[[0;34m-        [0;2m] [0;2m[mGET_CMSTATS                                                                          [2m [[0;34m  0%[0;2m][m 0 of 4[K
+[2m[[0;34m-        [0;2m] [0;2m[mEXTRACT_SEQUENCES                                                                     -[K
+[2m[[0;34m-        [0;2m] [0;2m[mBLAST_ANNOTATE                                                                        -[K
+[2m[[0;34m-        [0;2m] [0;2m[mMERGE_BLAST_RESULTS                                                                   -[K
+[2m[[0;34m-        [0;2m] [0;2m[mPROCESS_RESULTS                                                                       -[K
+[2m[[0;34m-        [0;2m] [0;2m[mBUILD_SUMMARY                                                                         -[K
+[10A
+[2mexecutor >  local (12)[m[K
+[2m[[0;34mde/a9972c[0;2m] [0;2m[mCHECK_FNA_HEADERS[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10[2m)[m  [2m [[0;32m100%[0;2m][m 3 of 3[32m ✔[m[K
+[2m[[0;34mae/b72e49[0;2m] [0;2m[mCMSEARCH[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10_RF00177[2m)[m   [2m [[0;34m 83%[0;2m][m 5 of 6[K
+[2m[[0;34m4c/8222cb[0;2m] [0;2m[mGET_CMSTATS[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000621645__depth10_RF01960[2m)[m[2m [[0;34m  0%[0;2m][m 0 of 5[K
+[2m[[0;34m-        [0;2m] [0;2m[mEXTRACT_SEQUENCES                                                                       -[K
+[2m[[0;34m-        [0;2m] [0;2m[mBLAST_ANNOTATE                                                                          -[K
+[2m[[0;34m-        [0;2m] [0;2m[mMERGE_BLAST_RESULTS                                                                     -[K
+[2m[[0;34m-        [0;2m] [0;2m[mPROCESS_RESULTS                                                                         -[K
+[2m[[0;34m-        [0;2m] [0;2m[mBUILD_SUMMARY                                                                           -[K
+[10A
+[2mexecutor >  local (14)[m[K
+[2m[[0;34mde/a9972c[0;2m] [0;2m[mCHECK_FNA_HEADERS[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10[2m)[m  [2m [[0;32m100%[0;2m][m 3 of 3[32m ✔[m[K
+[2m[[0;34mae/b72e49[0;2m] [0;2m[mCMSEARCH[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10_RF00177[2m)[m   [2m [[0;34m 83%[0;2m][m 5 of 6[K
+[2m[[0;34mc9/83d0c5[0;2m] [0;2m[mGET_CMSTATS[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10_RF00177[2m)[m[2m [[0;34m  0%[0;2m][m 0 of 5[K
+[2m[[0;34m-        [0;2m] [0;2m[mEXTRACT_SEQUENCES                                                                       -[K
+[2m[[0;34m-        [0;2m] [0;2m[mBLAST_ANNOTATE                                                                          -[K
+[2m[[0;34m-        [0;2m] [0;2m[mMERGE_BLAST_RESULTS                                                                     -[K
+[2m[[0;34m-        [0;2m] [0;2m[mPROCESS_RESULTS                                                                         -[K
+[2m[[0;34m-        [0;2m] [0;2m[mBUILD_SUMMARY                                                                           -[K
+[10A
+[2mexecutor >  local (15)[m[K
+[2m[[0;34mde/a9972c[0;2m] [0;2m[mCHECK_FNA_HEADERS[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10[2m)[m   [2m [[0;32m100%[0;2m][m 3 of 3[32m ✔[m[K
+[2m[[0;34mae/b72e49[0;2m] [0;2m[mCMSEARCH[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10_RF00177[2m)[m    [2m [[0;34m 83%[0;2m][m 5 of 6[K
+[2m[[0;34m4c/8222cb[0;2m] [0;2m[mGET_CMSTATS[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000621645__depth10_RF01960[2m)[m [2m [[0;32m100%[0;2m][m 5 of 5[K
+[2m[[0;34m66/880046[0;2m] [0;2m[mEXT…EQUENCES[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000621645__depth10_RF00177[2m)[m[2m [[0;34m  0%[0;2m][m 0 of 5[K
+[2m[[0;34m-        [0;2m] [0;2m[mBLAST_ANNOTATE                                                                           -[K
+[2m[[0;34m-        [0;2m] [0;2m[mMERGE_BLAST_RESULTS                                                                      -[K
+[2m[[0;34m-        [0;2m] [0;2m[mPROCESS_RESULTS                                                                          -[K
+[2m[[0;34m-        [0;2m] [0;2m[mBUILD_SUMMARY                                                                            -[K
+[10A
+[2mexecutor >  local (18)[m[K
+[2m[[0;34mde/a9972c[0;2m] [0;2m[mCHECK_FNA_HEADERS[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10[2m)[m   [2m [[0;32m100%[0;2m][m 3 of 3[32m ✔[m[K
+[2m[[0;34mae/b72e49[0;2m] [0;2m[mCMSEARCH[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10_RF00177[2m)[m    [2m [[0;34m 83%[0;2m][m 5 of 6[K
+[2m[[0;34m4c/8222cb[0;2m] [0;2m[mGET_CMSTATS[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000621645__depth10_RF01960[2m)[m [2m [[0;32m100%[0;2m][m 5 of 5[K
+[2m[[0;34m9d/b14d09[0;2m] [0;2m[mEXT…EQUENCES[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_001457615__depth10_RF01960[2m)[m[2m [[0;34m  0%[0;2m][m 0 of 5[K
+[2m[[0;34m-        [0;2m] [0;2m[mBLAST_ANNOTATE                                                                           -[K
+[2m[[0;34m-        [0;2m] [0;2m[mMERGE_BLAST_RESULTS                                                                      -[K
+[2m[[0;34m-        [0;2m] [0;2m[mPROCESS_RESULTS                                                                          -[K
+[2m[[0;34m-        [0;2m] [0;2m[mBUILD_SUMMARY                                                                            -[K
+[10A
+[2mexecutor >  local (19)[m[K
+[2m[[0;34mde/a9972c[0;2m] [0;2m[mCHECK_FNA_HEADERS[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10[2m)[m   [2m [[0;32m100%[0;2m][m 3 of 3[32m ✔[m[K
+[2m[[0;34mae/b72e49[0;2m] [0;2m[mCMSEARCH[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10_RF00177[2m)[m    [2m [[0;34m 83%[0;2m][m 5 of 6[K
+[2m[[0;34m4c/8222cb[0;2m] [0;2m[mGET_CMSTATS[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000621645__depth10_RF01960[2m)[m [2m [[0;32m100%[0;2m][m 5 of 5[K
+[2m[[0;34m16/034ba7[0;2m] [0;2m[mEXT…EQUENCES[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000621645__depth10_RF01960[2m)[m[2m [[0;34m  0%[0;2m][m 0 of 5[K
+[2m[[0;34m-        [0;2m] [0;2m[mBLAST_ANNOTATE                                                                           -[K
+[2m[[0;34m-        [0;2m] [0;2m[mMERGE_BLAST_RESULTS                                                                      -[K
+[2m[[0;34m-        [0;2m] [0;2m[mPROCESS_RESULTS                                                                          -[K
+[2m[[0;34m-        [0;2m] [0;2m[mBUILD_SUMMARY                                                                            -[K
+[10A
+[2mexecutor >  local (19)[m[K
+[2m[[0;34mde/a9972c[0;2m] [0;2m[mCHECK_FNA_HEADERS[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10[2m)[m   [2m [[0;32m100%[0;2m][m 3 of 3[32m ✔[m[K
+[2m[[0;34mae/b72e49[0;2m] [0;2m[mCMSEARCH[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10_RF00177[2m)[m    [2m [[0;34m 83%[0;2m][m 5 of 6[K
+[2m[[0;34m4c/8222cb[0;2m] [0;2m[mGET_CMSTATS[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000621645__depth10_RF01960[2m)[m [2m [[0;32m100%[0;2m][m 5 of 5[K
+[2m[[0;34mc6/890b6e[0;2m] [0;2m[mEXT…EQUENCES[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10_RF00177[2m)[m[2m [[0;34m 40%[0;2m][m 2 of 5[K
+[2m[[0;34m-        [0;2m] [0;2m[mBLAST_ANNOTATE                                                                          [2m [[0;34m  0%[0;2m][m 0 of 2[K
+[2m[[0;34m-        [0;2m] [0;2m[mMERGE_BLAST_RESULTS                                                                      -[K
+[2m[[0;34m-        [0;2m] [0;2m[mPROCESS_RESULTS                                                                          -[K
+[2m[[0;34m-        [0;2m] [0;2m[mBUILD_SUMMARY                                                                            -[K
+[10A
+[2mexecutor >  local (19)[m[K
+[2m[[0;34mde/a9972c[0;2m] [0;2m[mCHECK_FNA_HEADERS[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10[2m)[m   [2m [[0;32m100%[0;2m][m 3 of 3[32m ✔[m[K
+[2m[[0;34mae/b72e49[0;2m] [0;2m[mCMSEARCH[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10_RF00177[2m)[m    [2m [[0;34m 83%[0;2m][m 5 of 6[K
+[2m[[0;34m4c/8222cb[0;2m] [0;2m[mGET_CMSTATS[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000621645__depth10_RF01960[2m)[m [2m [[0;32m100%[0;2m][m 5 of 5[K
+[2m[[0;34m9d/b14d09[0;2m] [0;2m[mEXT…EQUENCES[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_001457615__depth10_RF01960[2m)[m[2m [[0;34m 80%[0;2m][m 4 of 5[K
+[2m[[0;34m-        [0;2m] [0;2m[mBLAST_ANNOTATE                                                                          [2m [[0;34m  0%[0;2m][m 0 of 4[K
+[2m[[0;34m-        [0;2m] [0;2m[mMERGE_BLAST_RESULTS                                                                      -[K
+[2m[[0;34m-        [0;2m] [0;2m[mPROCESS_RESULTS                                                                          -[K
+[2m[[0;34m-        [0;2m] [0;2m[mBUILD_SUMMARY                                                                            -[K
+[10A
+[2mexecutor >  local (20)[m[K
+[2m[[0;34mde/a9972c[0;2m] [0;2m[mCHECK_FNA_HEADERS[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10[2m)[m   [2m [[0;32m100%[0;2m][m 3 of 3[32m ✔[m[K
+[2m[[0;34mae/b72e49[0;2m] [0;2m[mCMSEARCH[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10_RF00177[2m)[m    [2m [[0;34m 83%[0;2m][m 5 of 6[K
+[2m[[0;34m4c/8222cb[0;2m] [0;2m[mGET_CMSTATS[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000621645__depth10_RF01960[2m)[m [2m [[0;32m100%[0;2m][m 5 of 5[K
+[2m[[0;34m16/034ba7[0;2m] [0;2m[mEXT…EQUENCES[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000621645__depth10_RF01960[2m)[m[2m [[0;32m100%[0;2m][m 5 of 5[K
+[2m[[0;34mb9/ac9d65[0;2m] [0;2m[mBLA…ANNOTATE[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000621645__depth10_RF00177[2m)[m[2m [[0;34m  0%[0;2m][m 0 of 5[K
+[2m[[0;34m-        [0;2m] [0;2m[mMERGE_BLAST_RESULTS                                                                      -[K
+[2m[[0;34m-        [0;2m] [0;2m[mPROCESS_RESULTS                                                                          -[K
+[2m[[0;34m-        [0;2m] [0;2m[mBUILD_SUMMARY                                                                            -[K
+[10A
+[2mexecutor >  local (21)[m[K
+[2m[[0;34mde/a9972c[0;2m] [0;2m[mCHECK_FNA_HEADERS[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10[2m)[m   [2m [[0;32m100%[0;2m][m 3 of 3[32m ✔[m[K
+[2m[[0;34mae/b72e49[0;2m] [0;2m[mCMSEARCH[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10_RF00177[2m)[m    [2m [[0;34m 83%[0;2m][m 5 of 6[K
+[2m[[0;34m4c/8222cb[0;2m] [0;2m[mGET_CMSTATS[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000621645__depth10_RF01960[2m)[m [2m [[0;32m100%[0;2m][m 5 of 5[K
+[2m[[0;34m16/034ba7[0;2m] [0;2m[mEXT…EQUENCES[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000621645__depth10_RF01960[2m)[m[2m [[0;32m100%[0;2m][m 5 of 5[K
+[2m[[0;34md3/c63ef3[0;2m] [0;2m[mBLA…ANNOTATE[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10_RF00177[2m)[m[2m [[0;34m 20%[0;2m][m 1 of 5[K
+[2m[[0;34m-        [0;2m] [0;2m[mMERGE_BLAST_RESULTS                                                                      -[K
+[2m[[0;34m-        [0;2m] [0;2m[mPROCESS_RESULTS                                                                          -[K
+[2m[[0;34m-        [0;2m] [0;2m[mBUILD_SUMMARY                                                                            -[K
+[10A
+[2mexecutor >  local (21)[m[K
+[2m[[0;34mde/a9972c[0;2m] [0;2m[mCHECK_FNA_HEADERS[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10[2m)[m   [2m [[0;32m100%[0;2m][m 3 of 3[32m ✔[m[K
+[2m[[0;34mae/b72e49[0;2m] [0;2m[mCMSEARCH[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10_RF00177[2m)[m    [2m [[0;34m 83%[0;2m][m 5 of 6[K
+[2m[[0;34m4c/8222cb[0;2m] [0;2m[mGET_CMSTATS[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000621645__depth10_RF01960[2m)[m [2m [[0;32m100%[0;2m][m 5 of 5[K
+[2m[[0;34m16/034ba7[0;2m] [0;2m[mEXT…EQUENCES[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000621645__depth10_RF01960[2m)[m[2m [[0;32m100%[0;2m][m 5 of 5[K
+[2m[[0;34md3/c63ef3[0;2m] [0;2m[mBLA…ANNOTATE[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10_RF00177[2m)[m[2m [[0;34m 20%[0;2m][m 1 of 5[K
+[2m[[0;34m-        [0;2m] [0;2m[mMERGE_BLAST_RESULTS                                                                      -[K
+[2m[[0;34m-        [0;2m] [0;2m[mPROCESS_RESULTS                                                                          -[K
+[2m[[0;34m-        [0;2m] [0;2m[mBUILD_SUMMARY                                                                            -[K
+[10A
+[2mexecutor >  local (21)[m[K
+[2m[[0;34mde/a9972c[0;2m] [0;2m[mCHECK_FNA_HEADERS[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10[2m)[m   [2m [[0;32m100%[0;2m][m 3 of 3[32m ✔[m[K
+[2m[[0;34mae/b72e49[0;2m] [0;2m[mCMSEARCH[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10_RF00177[2m)[m    [2m [[0;34m 83%[0;2m][m 5 of 6[K
+[2m[[0;34m4c/8222cb[0;2m] [0;2m[mGET_CMSTATS[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000621645__depth10_RF01960[2m)[m [2m [[0;32m100%[0;2m][m 5 of 5[K
+[2m[[0;34m16/034ba7[0;2m] [0;2m[mEXT…EQUENCES[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000621645__depth10_RF01960[2m)[m[2m [[0;32m100%[0;2m][m 5 of 5[K
+[2m[[0;34md3/c63ef3[0;2m] [0;2m[mBLA…ANNOTATE[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10_RF00177[2m)[m[2m [[0;34m 40%[0;2m][m 2 of 5[K
+[2m[[0;34m-        [0;2m] [0;2m[mMERGE_BLAST_RESULTS                                                                      -[K
+[2m[[0;34m-        [0;2m] [0;2m[mPROCESS_RESULTS                                                                          -[K
+[2m[[0;34m-        [0;2m] [0;2m[mBUILD_SUMMARY                                                                            -[K
+[10A
+[2mexecutor >  local (22)[m[K
+[2m[[0;34mde/a9972c[0;2m] [0;2m[mCHECK_FNA_HEADERS[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10[2m)[m   [2m [[0;32m100%[0;2m][m 3 of 3[32m ✔[m[K
+[2m[[0;34mae/b72e49[0;2m] [0;2m[mCMSEARCH[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10_RF00177[2m)[m    [2m [[0;34m 83%[0;2m][m 5 of 6[K
+[2m[[0;34m4c/8222cb[0;2m] [0;2m[mGET_CMSTATS[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000621645__depth10_RF01960[2m)[m [2m [[0;32m100%[0;2m][m 5 of 5[K
+[2m[[0;34m16/034ba7[0;2m] [0;2m[mEXT…EQUENCES[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000621645__depth10_RF01960[2m)[m[2m [[0;32m100%[0;2m][m 5 of 5[K
+[2m[[0;34me8/d4d969[0;2m] [0;2m[mBLA…ANNOTATE[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_001457615__depth10_RF00177[2m)[m[2m [[0;34m 40%[0;2m][m 2 of 5[K
+[2m[[0;34m-        [0;2m] [0;2m[mMERGE_BLAST_RESULTS                                                                      -[K
+[2m[[0;34m-        [0;2m] [0;2m[mPROCESS_RESULTS                                                                          -[K
+[2m[[0;34m-        [0;2m] [0;2m[mBUILD_SUMMARY                                                                            -[K
+[10A
+[2mexecutor >  local (23)[m[K
+[2m[[0;34mde/a9972c[0;2m] [0;2m[mCHECK_FNA_HEADERS[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10[2m)[m   [2m [[0;32m100%[0;2m][m 3 of 3[32m ✔[m[K
+[2m[[0;34mae/b72e49[0;2m] [0;2m[mCMSEARCH[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10_RF00177[2m)[m    [2m [[0;34m 83%[0;2m][m 5 of 6[K
+[2m[[0;34m4c/8222cb[0;2m] [0;2m[mGET_CMSTATS[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000621645__depth10_RF01960[2m)[m [2m [[0;32m100%[0;2m][m 5 of 5[K
+[2m[[0;34m16/034ba7[0;2m] [0;2m[mEXT…EQUENCES[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000621645__depth10_RF01960[2m)[m[2m [[0;32m100%[0;2m][m 5 of 5[K
+[2m[[0;34mf7/c3cad9[0;2m] [0;2m[mBLA…ANNOTATE[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_001457615__depth10_RF01960[2m)[m[2m [[0;34m 60%[0;2m][m 3 of 5[K
+[2m[[0;34m-        [0;2m] [0;2m[mMERGE_BLAST_RESULTS                                                                      -[K
+[2m[[0;34m-        [0;2m] [0;2m[mPROCESS_RESULTS                                                                          -[K
+[2m[[0;34m-        [0;2m] [0;2m[mBUILD_SUMMARY                                                                            -[K
+[10A
+[2mexecutor >  local (23)[m[K
+[2m[[0;34mde/a9972c[0;2m] [0;2m[mCHECK_FNA_HEADERS[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10[2m)[m   [2m [[0;32m100%[0;2m][m 3 of 3[32m ✔[m[K
+[2m[[0;34mae/b72e49[0;2m] [0;2m[mCMSEARCH[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10_RF00177[2m)[m    [2m [[0;34m 83%[0;2m][m 5 of 6[K
+[2m[[0;34m4c/8222cb[0;2m] [0;2m[mGET_CMSTATS[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000621645__depth10_RF01960[2m)[m [2m [[0;32m100%[0;2m][m 5 of 5[K
+[2m[[0;34m16/034ba7[0;2m] [0;2m[mEXT…EQUENCES[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000621645__depth10_RF01960[2m)[m[2m [[0;32m100%[0;2m][m 5 of 5[K
+[2m[[0;34mf7/c3cad9[0;2m] [0;2m[mBLA…ANNOTATE[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_001457615__depth10_RF01960[2m)[m[2m [[0;34m 60%[0;2m][m 3 of 5[K
+[2m[[0;34m-        [0;2m] [0;2m[mMERGE_BLAST_RESULTS                                                                      -[K
+[2m[[0;34m-        [0;2m] [0;2m[mPROCESS_RESULTS                                                                          -[K
+[2m[[0;34m-        [0;2m] [0;2m[mBUILD_SUMMARY                                                                            -[K
+[10A
+[2mexecutor >  local (24)[m[K
+[2m[[0;34mde/a9972c[0;2m] [0;2m[mCHECK_FNA_HEADERS[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10[2m)[m   [2m [[0;32m100%[0;2m][m 3 of 3[32m ✔[m[K
+[2m[[0;34mae/b72e49[0;2m] [0;2m[mCMSEARCH[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10_RF00177[2m)[m    [2m [[0;34m 83%[0;2m][m 5 of 6[K
+[2m[[0;34m4c/8222cb[0;2m] [0;2m[mGET_CMSTATS[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000621645__depth10_RF01960[2m)[m [2m [[0;32m100%[0;2m][m 5 of 5[K
+[2m[[0;34m16/034ba7[0;2m] [0;2m[mEXT…EQUENCES[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000621645__depth10_RF01960[2m)[m[2m [[0;32m100%[0;2m][m 5 of 5[K
+[2m[[0;34m4d/f2b692[0;2m] [0;2m[mBLA…ANNOTATE[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000621645__depth10_RF01960[2m)[m[2m [[0;34m 80%[0;2m][m 4 of 5[K
+[2m[[0;34m-        [0;2m] [0;2m[mMERGE_BLAST_RESULTS                                                                      -[K
+[2m[[0;34m-        [0;2m] [0;2m[mPROCESS_RESULTS                                                                          -[K
+[2m[[0;34m-        [0;2m] [0;2m[mBUILD_SUMMARY                                                                            -[K
+[10A
+[2mexecutor >  local (24)[m[K
+[2m[[0;34mde/a9972c[0;2m] [0;2m[mCHECK_FNA_HEADERS[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10[2m)[m   [2m [[0;32m100%[0;2m][m 3 of 3[32m ✔[m[K
+[2m[[0;34mae/b72e49[0;2m] [0;2m[mCMSEARCH[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10_RF00177[2m)[m    [2m [[0;34m 83%[0;2m][m 5 of 6[K
+[2m[[0;34m4c/8222cb[0;2m] [0;2m[mGET_CMSTATS[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000621645__depth10_RF01960[2m)[m [2m [[0;32m100%[0;2m][m 5 of 5[K
+[2m[[0;34m16/034ba7[0;2m] [0;2m[mEXT…EQUENCES[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000621645__depth10_RF01960[2m)[m[2m [[0;32m100%[0;2m][m 5 of 5[K
+[2m[[0;34m4d/f2b692[0;2m] [0;2m[mBLA…ANNOTATE[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000621645__depth10_RF01960[2m)[m[2m [[0;32m100%[0;2m][m 5 of 5[K
+[2m[[0;34m-        [0;2m] [0;2m[mMERGE_BLAST_RESULTS                                                                      -[K
+[2m[[0;34m-        [0;2m] [0;2m[mPROCESS_RESULTS                                                                          -[K
+[2m[[0;34m-        [0;2m] [0;2m[mBUILD_SUMMARY                                                                            -[K
+[10A
+[2mexecutor >  local (25)[m[K
+[2m[[0;34mde/a9972c[0;2m] [0;2m[mCHECK_FNA_HEADERS[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10[2m)[m   [2m [[0;32m100%[0;2m][m 3 of 3[32m ✔[m[K
+[2m[[0;34ma3/60aed0[0;2m] [0;2m[mCMSEARCH[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10_RF01960[2m)[m    [2m [[0;32m100%[0;2m][m 6 of 6[32m ✔[m[K
+[2m[[0;34md1/4a9497[0;2m] [0;2m[mGET_CMSTATS[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10_RF01960[2m)[m [2m [[0;34m 83%[0;2m][m 5 of 6[K
+[2m[[0;34m16/034ba7[0;2m] [0;2m[mEXT…EQUENCES[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000621645__depth10_RF01960[2m)[m[2m [[0;32m100%[0;2m][m 5 of 5[K
+[2m[[0;34m4d/f2b692[0;2m] [0;2m[mBLA…ANNOTATE[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000621645__depth10_RF01960[2m)[m[2m [[0;32m100%[0;2m][m 5 of 5[K
+[2m[[0;34m-        [0;2m] [0;2m[mMERGE_BLAST_RESULTS                                                                      -[K
+[2m[[0;34m-        [0;2m] [0;2m[mPROCESS_RESULTS                                                                          -[K
+[2m[[0;34m-        [0;2m] [0;2m[mBUILD_SUMMARY                                                                            -[K
+[10A
+[2mexecutor >  local (25)[m[K
+[2m[[0;34mde/a9972c[0;2m] [0;2m[mCHECK_FNA_HEADERS[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10[2m)[m   [2m [[0;32m100%[0;2m][m 3 of 3[32m ✔[m[K
+[2m[[0;34ma3/60aed0[0;2m] [0;2m[mCMSEARCH[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10_RF01960[2m)[m    [2m [[0;32m100%[0;2m][m 6 of 6[32m ✔[m[K
+[2m[[0;34md1/4a9497[0;2m] [0;2m[mGET_CMSTATS[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10_RF01960[2m)[m [2m [[0;32m100%[0;2m][m 6 of 6[32m ✔[m[K
+[2m[[0;34m16/034ba7[0;2m] [0;2m[mEXT…EQUENCES[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000621645__depth10_RF01960[2m)[m[2m [[0;32m100%[0;2m][m 5 of 5[K
+[2m[[0;34m4d/f2b692[0;2m] [0;2m[mBLA…ANNOTATE[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000621645__depth10_RF01960[2m)[m[2m [[0;32m100%[0;2m][m 5 of 5[K
+[2m[[0;34m-        [0;2m] [0;2m[mMERGE_BLAST_RESULTS                                                                      -[K
+[2m[[0;34m-        [0;2m] [0;2m[mPROCESS_RESULTS                                                                          -[K
+[2m[[0;34m-        [0;2m] [0;2m[mBUILD_SUMMARY                                                                            -[K
+[10A
+[2mexecutor >  local (26)[m[K
+[2m[[0;34mde/a9972c[0;2m] [0;2m[mCHECK_FNA_HEADERS[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10[2m)[m   [2m [[0;32m100%[0;2m][m 3 of 3[32m ✔[m[K
+[2m[[0;34ma3/60aed0[0;2m] [0;2m[mCMSEARCH[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10_RF01960[2m)[m    [2m [[0;32m100%[0;2m][m 6 of 6[32m ✔[m[K
+[2m[[0;34md1/4a9497[0;2m] [0;2m[mGET_CMSTATS[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10_RF01960[2m)[m [2m [[0;32m100%[0;2m][m 6 of 6[32m ✔[m[K
+[2m[[0;34mc1/784200[0;2m] [0;2m[mEXT…EQUENCES[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10_RF01960[2m)[m[2m [[0;34m 83%[0;2m][m 5 of 6[K
+[2m[[0;34m4d/f2b692[0;2m] [0;2m[mBLA…ANNOTATE[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000621645__depth10_RF01960[2m)[m[2m [[0;32m100%[0;2m][m 5 of 5[K
+[2m[[0;34m-        [0;2m] [0;2m[mMERGE_BLAST_RESULTS                                                                      -[K
+[2m[[0;34m-        [0;2m] [0;2m[mPROCESS_RESULTS                                                                          -[K
+[2m[[0;34m-        [0;2m] [0;2m[mBUILD_SUMMARY                                                                            -[K
+[10A
+[2mexecutor >  local (27)[m[K
+[2m[[0;34mde/a9972c[0;2m] [0;2m[mCHECK_FNA_HEADERS[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10[2m)[m   [2m [[0;32m100%[0;2m][m 3 of 3[32m ✔[m[K
+[2m[[0;34ma3/60aed0[0;2m] [0;2m[mCMSEARCH[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10_RF01960[2m)[m    [2m [[0;32m100%[0;2m][m 6 of 6[32m ✔[m[K
+[2m[[0;34md1/4a9497[0;2m] [0;2m[mGET_CMSTATS[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10_RF01960[2m)[m [2m [[0;32m100%[0;2m][m 6 of 6[32m ✔[m[K
+[2m[[0;34mc1/784200[0;2m] [0;2m[mEXT…EQUENCES[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10_RF01960[2m)[m[2m [[0;32m100%[0;2m][m 6 of 6[32m ✔[m[K
+[2m[[0;34mbb/c157e9[0;2m] [0;2m[mBLA…ANNOTATE[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10_RF01960[2m)[m[2m [[0;34m 83%[0;2m][m 5 of 6[K
+[2m[[0;34m-        [0;2m] [0;2m[mMERGE_BLAST_RESULTS                                                                      -[K
+[2m[[0;34m-        [0;2m] [0;2m[mPROCESS_RESULTS                                                                          -[K
+[2m[[0;34m-        [0;2m] [0;2m[mBUILD_SUMMARY                                                                            -[K
+[10A
+[2mexecutor >  local (27)[m[K
+[2m[[0;34mde/a9972c[0;2m] [0;2m[mCHECK_FNA_HEADERS[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10[2m)[m   [2m [[0;32m100%[0;2m][m 3 of 3[32m ✔[m[K
+[2m[[0;34ma3/60aed0[0;2m] [0;2m[mCMSEARCH[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10_RF01960[2m)[m    [2m [[0;32m100%[0;2m][m 6 of 6[32m ✔[m[K
+[2m[[0;34md1/4a9497[0;2m] [0;2m[mGET_CMSTATS[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10_RF01960[2m)[m [2m [[0;32m100%[0;2m][m 6 of 6[32m ✔[m[K
+[2m[[0;34mc1/784200[0;2m] [0;2m[mEXT…EQUENCES[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10_RF01960[2m)[m[2m [[0;32m100%[0;2m][m 6 of 6[32m ✔[m[K
+[2m[[0;34mbb/c157e9[0;2m] [0;2m[mBLA…ANNOTATE[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10_RF01960[2m)[m[2m [[0;34m 83%[0;2m][m 5 of 6[K
+[2m[[0;34m-        [0;2m] [0;2m[mMERGE_BLAST_RESULTS                                                                      -[K
+[2m[[0;34m-        [0;2m] [0;2m[mPROCESS_RESULTS                                                                          -[K
+[2m[[0;34m-        [0;2m] [0;2m[mBUILD_SUMMARY                                                                            -[K
+[10A
+[2mexecutor >  local (28)[m[K
+[2m[[0;34mde/a9972c[0;2m] [0;2m[mCHECK_FNA_HEADERS[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10[2m)[m   [2m [[0;32m100%[0;2m][m 3 of 3[32m ✔[m[K
+[2m[[0;34ma3/60aed0[0;2m] [0;2m[mCMSEARCH[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10_RF01960[2m)[m    [2m [[0;32m100%[0;2m][m 6 of 6[32m ✔[m[K
+[2m[[0;34md1/4a9497[0;2m] [0;2m[mGET_CMSTATS[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10_RF01960[2m)[m [2m [[0;32m100%[0;2m][m 6 of 6[32m ✔[m[K
+[2m[[0;34mc1/784200[0;2m] [0;2m[mEXT…EQUENCES[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10_RF01960[2m)[m[2m [[0;32m100%[0;2m][m 6 of 6[32m ✔[m[K
+[2m[[0;34mbb/c157e9[0;2m] [0;2m[mBLA…ANNOTATE[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10_RF01960[2m)[m[2m [[0;32m100%[0;2m][m 6 of 6[32m ✔[m[K
+[2m[[0;34m2c/2f6f47[0;2m] [0;2m[mMERGE_BLAST_RESULTS                                                                     [2m [[0;34m  0%[0;2m][m 0 of 1[K
+[2m[[0;34m-        [0;2m] [0;2m[mPROCESS_RESULTS                                                                          -[K
+[2m[[0;34m-        [0;2m] [0;2m[mBUILD_SUMMARY                                                                            -[K
+[10A
+[2mexecutor >  local (28)[m[K
+[2m[[0;34mde/a9972c[0;2m] [0;2m[mCHECK_FNA_HEADERS[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10[2m)[m   [2m [[0;32m100%[0;2m][m 3 of 3[32m ✔[m[K
+[2m[[0;34ma3/60aed0[0;2m] [0;2m[mCMSEARCH[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10_RF01960[2m)[m    [2m [[0;32m100%[0;2m][m 6 of 6[32m ✔[m[K
+[2m[[0;34md1/4a9497[0;2m] [0;2m[mGET_CMSTATS[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10_RF01960[2m)[m [2m [[0;32m100%[0;2m][m 6 of 6[32m ✔[m[K
+[2m[[0;34mc1/784200[0;2m] [0;2m[mEXT…EQUENCES[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10_RF01960[2m)[m[2m [[0;32m100%[0;2m][m 6 of 6[32m ✔[m[K
+[2m[[0;34mbb/c157e9[0;2m] [0;2m[mBLA…ANNOTATE[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10_RF01960[2m)[m[2m [[0;32m100%[0;2m][m 6 of 6[32m ✔[m[K
+[2m[[0;34m2c/2f6f47[0;2m] [0;2m[mMERGE_BLAST_RESULTS                                                                     [2m [[0;34m  0%[0;2m][m 0 of 1[K
+[2m[[0;34m-        [0;2m] [0;2m[mPROCESS_RESULTS                                                                          -[K
+[2m[[0;34m-        [0;2m] [0;2m[mBUILD_SUMMARY                                                                            -[K
+[10A
+[2mexecutor >  local (28)[m[K
+[2m[[0;34mde/a9972c[0;2m] [0;2m[mCHECK_FNA_HEADERS[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10[2m)[m   [2m [[0;32m100%[0;2m][m 3 of 3[32m ✔[m[K
+[2m[[0;34ma3/60aed0[0;2m] [0;2m[mCMSEARCH[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10_RF01960[2m)[m    [2m [[0;32m100%[0;2m][m 6 of 6[32m ✔[m[K
+[2m[[0;34md1/4a9497[0;2m] [0;2m[mGET_CMSTATS[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10_RF01960[2m)[m [2m [[0;32m100%[0;2m][m 6 of 6[32m ✔[m[K
+[2m[[0;34mc1/784200[0;2m] [0;2m[mEXT…EQUENCES[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10_RF01960[2m)[m[2m [[0;32m100%[0;2m][m 6 of 6[32m ✔[m[K
+[2m[[0;34mbb/c157e9[0;2m] [0;2m[mBLA…ANNOTATE[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10_RF01960[2m)[m[2m [[0;32m100%[0;2m][m 6 of 6[32m ✔[m[K
+[2m[[0;34m2c/2f6f47[0;2m] [0;2m[mMERGE_BLAST_RESULTS                                                                     [2m [[0;32m100%[0;2m][m 1 of 1[32m ✔[m[K
+[2m[[0;34m-        [0;2m] [0;2m[mPROCESS_RESULTS                                                                          -[K
+[2m[[0;34m-        [0;2m] [0;2m[mBUILD_SUMMARY                                                                            -[K
+[10A
+[2mexecutor >  local (29)[m[K
+[2m[[0;34mde/a9972c[0;2m] [0;2m[mCHECK_FNA_HEADERS[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10[2m)[m   [2m [[0;32m100%[0;2m][m 3 of 3[32m ✔[m[K
+[2m[[0;34ma3/60aed0[0;2m] [0;2m[mCMSEARCH[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10_RF01960[2m)[m    [2m [[0;32m100%[0;2m][m 6 of 6[32m ✔[m[K
+[2m[[0;34md1/4a9497[0;2m] [0;2m[mGET_CMSTATS[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10_RF01960[2m)[m [2m [[0;32m100%[0;2m][m 6 of 6[32m ✔[m[K
+[2m[[0;34mc1/784200[0;2m] [0;2m[mEXT…EQUENCES[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10_RF01960[2m)[m[2m [[0;32m100%[0;2m][m 6 of 6[32m ✔[m[K
+[2m[[0;34mbb/c157e9[0;2m] [0;2m[mBLA…ANNOTATE[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10_RF01960[2m)[m[2m [[0;32m100%[0;2m][m 6 of 6[32m ✔[m[K
+[2m[[0;34m2c/2f6f47[0;2m] [0;2m[mMERGE_BLAST_RESULTS                                                                     [2m [[0;32m100%[0;2m][m 1 of 1[32m ✔[m[K
+[2m[[0;34m63/29252a[0;2m] [0;2m[mPROCESS_RESULTS                                                                         [2m [[0;34m  0%[0;2m][m 0 of 1[K
+[2m[[0;34m-        [0;2m] [0;2m[mBUILD_SUMMARY                                                                            -[K
+[10A
+[2mexecutor >  local (29)[m[K
+[2m[[0;34mde/a9972c[0;2m] [0;2m[mCHECK_FNA_HEADERS[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10[2m)[m   [2m [[0;32m100%[0;2m][m 3 of 3[32m ✔[m[K
+[2m[[0;34ma3/60aed0[0;2m] [0;2m[mCMSEARCH[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10_RF01960[2m)[m    [2m [[0;32m100%[0;2m][m 6 of 6[32m ✔[m[K
+[2m[[0;34md1/4a9497[0;2m] [0;2m[mGET_CMSTATS[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10_RF01960[2m)[m [2m [[0;32m100%[0;2m][m 6 of 6[32m ✔[m[K
+[2m[[0;34mc1/784200[0;2m] [0;2m[mEXT…EQUENCES[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10_RF01960[2m)[m[2m [[0;32m100%[0;2m][m 6 of 6[32m ✔[m[K
+[2m[[0;34mbb/c157e9[0;2m] [0;2m[mBLA…ANNOTATE[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10_RF01960[2m)[m[2m [[0;32m100%[0;2m][m 6 of 6[32m ✔[m[K
+[2m[[0;34m2c/2f6f47[0;2m] [0;2m[mMERGE_BLAST_RESULTS                                                                     [2m [[0;32m100%[0;2m][m 1 of 1[32m ✔[m[K
+[2m[[0;34m63/29252a[0;2m] [0;2m[mPROCESS_RESULTS                                                                         [2m [[0;32m100%[0;2m][m 1 of 1[32m ✔[m[K
+[2m[[0;34m-        [0;2m] [0;2m[mBUILD_SUMMARY                                                                            -[K
+[10A
+[2mexecutor >  local (30)[m[K
+[2m[[0;34mde/a9972c[0;2m] [0;2m[mCHECK_FNA_HEADERS[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10[2m)[m   [2m [[0;32m100%[0;2m][m 3 of 3[32m ✔[m[K
+[2m[[0;34ma3/60aed0[0;2m] [0;2m[mCMSEARCH[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10_RF01960[2m)[m    [2m [[0;32m100%[0;2m][m 6 of 6[32m ✔[m[K
+[2m[[0;34md1/4a9497[0;2m] [0;2m[mGET_CMSTATS[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10_RF01960[2m)[m [2m [[0;32m100%[0;2m][m 6 of 6[32m ✔[m[K
+[2m[[0;34mc1/784200[0;2m] [0;2m[mEXT…EQUENCES[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10_RF01960[2m)[m[2m [[0;32m100%[0;2m][m 6 of 6[32m ✔[m[K
+[2m[[0;34mbb/c157e9[0;2m] [0;2m[mBLA…ANNOTATE[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10_RF01960[2m)[m[2m [[0;32m100%[0;2m][m 6 of 6[32m ✔[m[K
+[2m[[0;34m2c/2f6f47[0;2m] [0;2m[mMERGE_BLAST_RESULTS                                                                     [2m [[0;32m100%[0;2m][m 1 of 1[32m ✔[m[K
+[2m[[0;34m63/29252a[0;2m] [0;2m[mPROCESS_RESULTS                                                                         [2m [[0;32m100%[0;2m][m 1 of 1[32m ✔[m[K
+[2m[[0;34m0c/cf7155[0;2m] [0;2m[mBUILD_SUMMARY                                                                           [2m [[0;34m  0%[0;2m][m 0 of 1[K
+[10A
+[2mexecutor >  local (30)[m[K
+[2m[[0;34mde/a9972c[0;2m] [0;2m[mCHECK_FNA_HEADERS[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10[2m)[m   [2m [[0;32m100%[0;2m][m 3 of 3[32m ✔[m[K
+[2m[[0;34ma3/60aed0[0;2m] [0;2m[mCMSEARCH[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10_RF01960[2m)[m    [2m [[0;32m100%[0;2m][m 6 of 6[32m ✔[m[K
+[2m[[0;34md1/4a9497[0;2m] [0;2m[mGET_CMSTATS[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10_RF01960[2m)[m [2m [[0;32m100%[0;2m][m 6 of 6[32m ✔[m[K
+[2m[[0;34mc1/784200[0;2m] [0;2m[mEXT…EQUENCES[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10_RF01960[2m)[m[2m [[0;32m100%[0;2m][m 6 of 6[32m ✔[m[K
+[2m[[0;34mbb/c157e9[0;2m] [0;2m[mBLA…ANNOTATE[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10_RF01960[2m)[m[2m [[0;32m100%[0;2m][m 6 of 6[32m ✔[m[K
+[2m[[0;34m2c/2f6f47[0;2m] [0;2m[mMERGE_BLAST_RESULTS                                                                     [2m [[0;32m100%[0;2m][m 1 of 1[32m ✔[m[K
+[2m[[0;34m63/29252a[0;2m] [0;2m[mPROCESS_RESULTS                                                                         [2m [[0;32m100%[0;2m][m 1 of 1[32m ✔[m[K
+[2m[[0;34m0c/cf7155[0;2m] [0;2m[mBUILD_SUMMARY                                                                           [2m [[0;32m100%[0;2m][m 1 of 1[32m ✔[m[K
+[10A
+[2mexecutor >  local (30)[m[K
+[2m[[0;34mde/a9972c[0;2m] [0;2m[mCHECK_FNA_HEADERS[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10[2m)[m   [2m [[0;32m100%[0;2m][m 3 of 3[32m ✔[m[K
+[2m[[0;34ma3/60aed0[0;2m] [0;2m[mCMSEARCH[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10_RF01960[2m)[m    [2m [[0;32m100%[0;2m][m 6 of 6[32m ✔[m[K
+[2m[[0;34md1/4a9497[0;2m] [0;2m[mGET_CMSTATS[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10_RF01960[2m)[m [2m [[0;32m100%[0;2m][m 6 of 6[32m ✔[m[K
+[2m[[0;34mc1/784200[0;2m] [0;2m[mEXT…EQUENCES[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10_RF01960[2m)[m[2m [[0;32m100%[0;2m][m 6 of 6[32m ✔[m[K
+[2m[[0;34mbb/c157e9[0;2m] [0;2m[mBLA…ANNOTATE[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10_RF01960[2m)[m[2m [[0;32m100%[0;2m][m 6 of 6[32m ✔[m[K
+[2m[[0;34m2c/2f6f47[0;2m] [0;2m[mMERGE_BLAST_RESULTS                                                                     [2m [[0;32m100%[0;2m][m 1 of 1[32m ✔[m[K
+[2m[[0;34m63/29252a[0;2m] [0;2m[mPROCESS_RESULTS                                                                         [2m [[0;32m100%[0;2m][m 1 of 1[32m ✔[m[K
+[2m[[0;34m0c/cf7155[0;2m] [0;2m[mBUILD_SUMMARY                                                                           [2m [[0;32m100%[0;2m][m 1 of 1[32m ✔[m[K
+Pipeline completed at: 2025-07-25T15:15:26.533877210-07:00[K
+Execution status: OK[K
+Results directory: results/dataset[K
+[13A
+[2mexecutor >  local (30)[m[K
+[2m[[0;34mde/a9972c[0;2m] [0;2m[mCHECK_FNA_HEADERS[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10[2m)[m   [2m [[0;32m100%[0;2m][m 3 of 3[32m ✔[m[K
+[2m[[0;34ma3/60aed0[0;2m] [0;2m[mCMSEARCH[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10_RF01960[2m)[m    [2m [[0;32m100%[0;2m][m 6 of 6[32m ✔[m[K
+[2m[[0;34md1/4a9497[0;2m] [0;2m[mGET_CMSTATS[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10_RF01960[2m)[m [2m [[0;32m100%[0;2m][m 6 of 6[32m ✔[m[K
+[2m[[0;34mc1/784200[0;2m] [0;2m[mEXT…EQUENCES[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10_RF01960[2m)[m[2m [[0;32m100%[0;2m][m 6 of 6[32m ✔[m[K
+[2m[[0;34mbb/c157e9[0;2m] [0;2m[mBLA…ANNOTATE[33;2m ([0;33mcontigs_drinking_water_microbiome_spike_in_GCF_000008485__depth10_RF01960[2m)[m[2m [[0;32m100%[0;2m][m 6 of 6[32m ✔[m[K
+[2m[[0;34m2c/2f6f47[0;2m] [0;2m[mMERGE_BLAST_RESULTS                                                                     [2m [[0;32m100%[0;2m][m 1 of 1[32m ✔[m[K
+[2m[[0;34m63/29252a[0;2m] [0;2m[mPROCESS_RESULTS                                                                         [2m [[0;32m100%[0;2m][m 1 of 1[32m ✔[m[K
+[2m[[0;34m0c/cf7155[0;2m] [0;2m[mBUILD_SUMMARY                                                                           [2m [[0;32m100%[0;2m][m 1 of 1[32m ✔[m[K
+Pipeline completed at: 2025-07-25T15:15:26.533877210-07:00[K
+Execution status: OK[K
+Results directory: results/dataset[K
+[32;1mCompleted at: 25-Jul-2025 15:15:27
+Duration    : 1m 56s
+CPU hours   : 0.8
+Succeeded   : 30
+[22;39m[K
+
