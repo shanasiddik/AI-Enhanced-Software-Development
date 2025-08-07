@@ -1,0 +1,244 @@
+
+ N E X T F L O W   ~  version 25.04.6
+
+Launching `main.nf` [voluminous_sinoussi] DSL2 - revision: 2d60c0741a
+
+[-        ] CHECK_FNA_HEADERS   -
+[-        ] CMSEARCH            -
+[-        ] GET_CMSTATS         -
+[-        ] EXTRACT_SEQUENCES   -
+[-        ] BLAST_ANNOTATE      -
+[-        ] MERGE_BLAST_RESULTS -
+[-        ] PROCESS_RESULTS     -
+[-        ] BUILD_SUMMARY       -
+
+[-        ] CHECK_FNA_HEADERS   | 0 of 1
+[-        ] CMSEARCH            -
+[-        ] GET_CMSTATS         -
+[-        ] EXTRACT_SEQUENCES   -
+[-        ] BLAST_ANNOTATE      -
+[-        ] MERGE_BLAST_RESULTS -
+[-        ] PROCESS_RESULTS     -
+[-        ] BUILD_SUMMARY       -
+
+executor >  local (1)
+[97/b44304] CHECK_FNA_HEADERS (combined_dataset) | 0 of 1
+[-        ] CMSEARCH                             -
+[-        ] GET_CMSTATS                          -
+[-        ] EXTRACT_SEQUENCES                    -
+[-        ] BLAST_ANNOTATE                       -
+[-        ] MERGE_BLAST_RESULTS                  -
+[-        ] PROCESS_RESULTS                      -
+[-        ] BUILD_SUMMARY                        -
+
+executor >  local (3)
+[97/b44304] CHECK_FNA_HEADERS (combined_dataset) | 1 of 1 ✔
+[fa/6d3e6e] CMSEARCH (combined_dataset_RF01960)  | 0 of 2
+[-        ] GET_CMSTATS                          -
+[-        ] EXTRACT_SEQUENCES                    -
+[-        ] BLAST_ANNOTATE                       -
+[-        ] MERGE_BLAST_RESULTS                  -
+[-        ] PROCESS_RESULTS                      -
+[-        ] BUILD_SUMMARY                        -
+
+executor >  local (3)
+[97/b44304] CHECK_FNA_HEADERS (combined_dataset) | 1 of 1 ✔
+[fa/6d3e6e] CMSEARCH (combined_dataset_RF01960)  | 0 of 2
+[-        ] GET_CMSTATS                          -
+[-        ] EXTRACT_SEQUENCES                    -
+[-        ] BLAST_ANNOTATE                       -
+[-        ] MERGE_BLAST_RESULTS                  -
+[-        ] PROCESS_RESULTS                      -
+[-        ] BUILD_SUMMARY                        -
+
+executor >  local (4)
+[97/b44304] CHECK_FNA_HEADERS (combined_dataset)   | 1 of 1 ✔
+[e3/15e75e] CMSEARCH (combined_dataset_RF00177)    | 1 of 2
+[11/84fecc] GET_CMSTATS (combined_dataset_RF00177) | 0 of 1
+[-        ] EXTRACT_SEQUENCES                      -
+[-        ] BLAST_ANNOTATE                         -
+[-        ] MERGE_BLAST_RESULTS                    -
+[-        ] PROCESS_RESULTS                        -
+[-        ] BUILD_SUMMARY                          -
+
+executor >  local (4)
+[97/b44304] CHECK_FNA_HEADERS (combined_dataset)   | 1 of 1 ✔
+[e3/15e75e] CMSEARCH (combined_dataset_RF00177)    | 1 of 2
+[11/84fecc] GET_CMSTATS (combined_dataset_RF00177) | 0 of 1
+[-        ] EXTRACT_SEQUENCES                      -
+[-        ] BLAST_ANNOTATE                         -
+[-        ] MERGE_BLAST_RESULTS                    -
+[-        ] PROCESS_RESULTS                        -
+[-        ] BUILD_SUMMARY                          -
+
+executor >  local (4)
+[97/b44304] CHECK_FNA_HEADERS (combined_dataset)   | 1 of 1 ✔
+[e3/15e75e] CMSEARCH (combined_dataset_RF00177)    | 1 of 2
+[11/84fecc] GET_CMSTATS (combined_dataset_RF00177) | 1 of 1
+[-        ] EXTRACT_SEQUENCES                      -
+[-        ] BLAST_ANNOTATE                         -
+[-        ] MERGE_BLAST_RESULTS                    -
+[-        ] PROCESS_RESULTS                        -
+[-        ] BUILD_SUMMARY                          -
+
+executor >  local (5)
+[97/b44304] CHECK_FNA_HEADERS (combined_dataset)         | 1 of 1 ✔
+[e3/15e75e] CMSEARCH (combined_dataset_RF00177)          | 1 of 2
+[11/84fecc] GET_CMSTATS (combined_dataset_RF00177)       | 1 of 1
+[f3/046833] EXTRACT_SEQUENCES (combined_dataset_RF00177) | 0 of 1
+[-        ] BLAST_ANNOTATE                               -
+[-        ] MERGE_BLAST_RESULTS                          -
+[-        ] PROCESS_RESULTS                              -
+[-        ] BUILD_SUMMARY                                -
+
+executor >  local (6)
+[97/b44304] CHECK_FNA_HEADERS (combined_dataset)         | 1 of 1 ✔
+[e3/15e75e] CMSEARCH (combined_dataset_RF00177)          | 1 of 2
+[11/84fecc] GET_CMSTATS (combined_dataset_RF00177)       | 1 of 1
+[f3/046833] EXTRACT_SEQUENCES (combined_dataset_RF00177) | 1 of 1
+[7c/4bd8db] BLAST_ANNOTATE (combined_dataset_RF00177)    | 0 of 1
+[-        ] MERGE_BLAST_RESULTS                          -
+[-        ] PROCESS_RESULTS                              -
+[-        ] BUILD_SUMMARY                                -
+
+executor >  local (6)
+[97/b44304] CHECK_FNA_HEADERS (combined_dataset)         | 1 of 1 ✔
+[e3/15e75e] CMSEARCH (combined_dataset_RF00177)          | 1 of 2
+[11/84fecc] GET_CMSTATS (combined_dataset_RF00177)       | 1 of 1
+[f3/046833] EXTRACT_SEQUENCES (combined_dataset_RF00177) | 1 of 1
+[7c/4bd8db] BLAST_ANNOTATE (combined_dataset_RF00177)    | 1 of 1
+[-        ] MERGE_BLAST_RESULTS                          -
+[-        ] PROCESS_RESULTS                              -
+[-        ] BUILD_SUMMARY                                -
+
+executor >  local (7)
+[97/b44304] CHECK_FNA_HEADERS (combined_dataset)         | 1 of 1 ✔
+[fa/6d3e6e] CMSEARCH (combined_dataset_RF01960)          | 2 of 2 ✔
+[a0/bc1548] GET_CMSTATS (combined_dataset_RF01960)       | 1 of 2
+[f3/046833] EXTRACT_SEQUENCES (combined_dataset_RF00177) | 1 of 1
+[7c/4bd8db] BLAST_ANNOTATE (combined_dataset_RF00177)    | 1 of 1
+[-        ] MERGE_BLAST_RESULTS                          -
+[-        ] PROCESS_RESULTS                              -
+[-        ] BUILD_SUMMARY                                -
+
+executor >  local (8)
+[97/b44304] CHECK_FNA_HEADERS (combined_dataset)         | 1 of 1 ✔
+[fa/6d3e6e] CMSEARCH (combined_dataset_RF01960)          | 2 of 2 ✔
+[a0/bc1548] GET_CMSTATS (combined_dataset_RF01960)       | 2 of 2 ✔
+[3d/c3e393] EXTRACT_SEQUENCES (combined_dataset_RF01960) | 1 of 2
+[7c/4bd8db] BLAST_ANNOTATE (combined_dataset_RF00177)    | 1 of 1
+[-        ] MERGE_BLAST_RESULTS                          -
+[-        ] PROCESS_RESULTS                              -
+[-        ] BUILD_SUMMARY                                -
+
+executor >  local (8)
+[97/b44304] CHECK_FNA_HEADERS (combined_dataset)         | 1 of 1 ✔
+[fa/6d3e6e] CMSEARCH (combined_dataset_RF01960)          | 2 of 2 ✔
+[a0/bc1548] GET_CMSTATS (combined_dataset_RF01960)       | 2 of 2 ✔
+[3d/c3e393] EXTRACT_SEQUENCES (combined_dataset_RF01960) | 2 of 2 ✔
+[7c/4bd8db] BLAST_ANNOTATE (combined_dataset_RF00177)    | 1 of 1
+[-        ] MERGE_BLAST_RESULTS                          -
+[-        ] PROCESS_RESULTS                              -
+[-        ] BUILD_SUMMARY                                -
+
+executor >  local (9)
+[97/b44304] CHECK_FNA_HEADERS (combined_dataset)         | 1 of 1 ✔
+[fa/6d3e6e] CMSEARCH (combined_dataset_RF01960)          | 2 of 2 ✔
+[a0/bc1548] GET_CMSTATS (combined_dataset_RF01960)       | 2 of 2 ✔
+[3d/c3e393] EXTRACT_SEQUENCES (combined_dataset_RF01960) | 2 of 2 ✔
+[ae/3546b7] BLAST_ANNOTATE (combined_dataset_RF01960)    | 1 of 2
+[-        ] MERGE_BLAST_RESULTS                          -
+[-        ] PROCESS_RESULTS                              -
+[-        ] BUILD_SUMMARY                                -
+
+executor >  local (9)
+[97/b44304] CHECK_FNA_HEADERS (combined_dataset)         | 1 of 1 ✔
+[fa/6d3e6e] CMSEARCH (combined_dataset_RF01960)          | 2 of 2 ✔
+[a0/bc1548] GET_CMSTATS (combined_dataset_RF01960)       | 2 of 2 ✔
+[3d/c3e393] EXTRACT_SEQUENCES (combined_dataset_RF01960) | 2 of 2 ✔
+[ae/3546b7] BLAST_ANNOTATE (combined_dataset_RF01960)    | 1 of 2
+[-        ] MERGE_BLAST_RESULTS                          -
+[-        ] PROCESS_RESULTS                              -
+[-        ] BUILD_SUMMARY                                -
+
+executor >  local (10)
+[97/b44304] CHECK_FNA_HEADERS (combined_dataset)         | 1 of 1 ✔
+[fa/6d3e6e] CMSEARCH (combined_dataset_RF01960)          | 2 of 2 ✔
+[a0/bc1548] GET_CMSTATS (combined_dataset_RF01960)       | 2 of 2 ✔
+[3d/c3e393] EXTRACT_SEQUENCES (combined_dataset_RF01960) | 2 of 2 ✔
+[ae/3546b7] BLAST_ANNOTATE (combined_dataset_RF01960)    | 2 of 2 ✔
+[6a/23d3f4] MERGE_BLAST_RESULTS                          | 0 of 1
+[-        ] PROCESS_RESULTS                              -
+[-        ] BUILD_SUMMARY                                -
+
+executor >  local (10)
+[97/b44304] CHECK_FNA_HEADERS (combined_dataset)         | 1 of 1 ✔
+[fa/6d3e6e] CMSEARCH (combined_dataset_RF01960)          | 2 of 2 ✔
+[a0/bc1548] GET_CMSTATS (combined_dataset_RF01960)       | 2 of 2 ✔
+[3d/c3e393] EXTRACT_SEQUENCES (combined_dataset_RF01960) | 2 of 2 ✔
+[ae/3546b7] BLAST_ANNOTATE (combined_dataset_RF01960)    | 2 of 2 ✔
+[6a/23d3f4] MERGE_BLAST_RESULTS                          | 0 of 1
+[-        ] PROCESS_RESULTS                              -
+[-        ] BUILD_SUMMARY                                -
+
+executor >  local (11)
+[97/b44304] CHECK_FNA_HEADERS (combined_dataset)         | 1 of 1 ✔
+[fa/6d3e6e] CMSEARCH (combined_dataset_RF01960)          | 2 of 2 ✔
+[a0/bc1548] GET_CMSTATS (combined_dataset_RF01960)       | 2 of 2 ✔
+[3d/c3e393] EXTRACT_SEQUENCES (combined_dataset_RF01960) | 2 of 2 ✔
+[ae/3546b7] BLAST_ANNOTATE (combined_dataset_RF01960)    | 2 of 2 ✔
+[6a/23d3f4] MERGE_BLAST_RESULTS                          | 1 of 1 ✔
+[8a/aeede0] PROCESS_RESULTS                              | 0 of 1
+[-        ] BUILD_SUMMARY                                -
+
+executor >  local (12)
+[97/b44304] CHECK_FNA_HEADERS (combined_dataset)         | 1 of 1 ✔
+[fa/6d3e6e] CMSEARCH (combined_dataset_RF01960)          | 2 of 2 ✔
+[a0/bc1548] GET_CMSTATS (combined_dataset_RF01960)       | 2 of 2 ✔
+[3d/c3e393] EXTRACT_SEQUENCES (combined_dataset_RF01960) | 2 of 2 ✔
+[ae/3546b7] BLAST_ANNOTATE (combined_dataset_RF01960)    | 2 of 2 ✔
+[6a/23d3f4] MERGE_BLAST_RESULTS                          | 1 of 1 ✔
+[8a/aeede0] PROCESS_RESULTS                              | 1 of 1 ✔
+[20/45a300] BUILD_SUMMARY                                | 0 of 1
+
+executor >  local (12)
+[97/b44304] CHECK_FNA_HEADERS (combined_dataset)         | 1 of 1 ✔
+[fa/6d3e6e] CMSEARCH (combined_dataset_RF01960)          | 2 of 2 ✔
+[a0/bc1548] GET_CMSTATS (combined_dataset_RF01960)       | 2 of 2 ✔
+[3d/c3e393] EXTRACT_SEQUENCES (combined_dataset_RF01960) | 2 of 2 ✔
+[ae/3546b7] BLAST_ANNOTATE (combined_dataset_RF01960)    | 2 of 2 ✔
+[6a/23d3f4] MERGE_BLAST_RESULTS                          | 1 of 1 ✔
+[8a/aeede0] PROCESS_RESULTS                              | 1 of 1 ✔
+[20/45a300] BUILD_SUMMARY                                | 1 of 1 ✔
+
+executor >  local (12)
+[97/b44304] CHECK_FNA_HEADERS (combined_dataset)         | 1 of 1 ✔
+[fa/6d3e6e] CMSEARCH (combined_dataset_RF01960)          | 2 of 2 ✔
+[a0/bc1548] GET_CMSTATS (combined_dataset_RF01960)       | 2 of 2 ✔
+[3d/c3e393] EXTRACT_SEQUENCES (combined_dataset_RF01960) | 2 of 2 ✔
+[ae/3546b7] BLAST_ANNOTATE (combined_dataset_RF01960)    | 2 of 2 ✔
+[6a/23d3f4] MERGE_BLAST_RESULTS                          | 1 of 1 ✔
+[8a/aeede0] PROCESS_RESULTS                              | 1 of 1 ✔
+[20/45a300] BUILD_SUMMARY                                | 1 of 1 ✔
+Pipeline completed at: 2025-07-28T14:24:18.238382145-07:00
+Execution status: OK
+Results directory: results/combined
+
+executor >  local (12)
+[97/b44304] CHECK_FNA_HEADERS (combined_dataset)         | 1 of 1 ✔
+[fa/6d3e6e] CMSEARCH (combined_dataset_RF01960)          | 2 of 2 ✔
+[a0/bc1548] GET_CMSTATS (combined_dataset_RF01960)       | 2 of 2 ✔
+[3d/c3e393] EXTRACT_SEQUENCES (combined_dataset_RF01960) | 2 of 2 ✔
+[ae/3546b7] BLAST_ANNOTATE (combined_dataset_RF01960)    | 2 of 2 ✔
+[6a/23d3f4] MERGE_BLAST_RESULTS                          | 1 of 1 ✔
+[8a/aeede0] PROCESS_RESULTS                              | 1 of 1 ✔
+[20/45a300] BUILD_SUMMARY                                | 1 of 1 ✔
+Pipeline completed at: 2025-07-28T14:24:18.238382145-07:00
+Execution status: OK
+Results directory: results/combined
+Completed at: 28-Jul-2025 14:24:18
+Duration    : 1m 58s
+CPU hours   : 0.8
+Succeeded   : 12
+
+
