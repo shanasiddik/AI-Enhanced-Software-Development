@@ -1,0 +1,9 @@
+/clusterfs/jgi/scratch/science/mgs/nelli/shana/AI-software-development/improved-cmsearch/target/release/deps/semver-d6e715d1ff06b1d9.d: /clusterfs/jgi/groups/science/homes/ssiddik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-0.1.20/src/lib.rs /clusterfs/jgi/groups/science/homes/ssiddik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-0.1.20/src/version.rs /clusterfs/jgi/groups/science/homes/ssiddik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-0.1.20/src/version_req.rs
+
+/clusterfs/jgi/scratch/science/mgs/nelli/shana/AI-software-development/improved-cmsearch/target/release/deps/libsemver-d6e715d1ff06b1d9.rlib: /clusterfs/jgi/groups/science/homes/ssiddik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-0.1.20/src/lib.rs /clusterfs/jgi/groups/science/homes/ssiddik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-0.1.20/src/version.rs /clusterfs/jgi/groups/science/homes/ssiddik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-0.1.20/src/version_req.rs
+
+/clusterfs/jgi/scratch/science/mgs/nelli/shana/AI-software-development/improved-cmsearch/target/release/deps/libsemver-d6e715d1ff06b1d9.rmeta: /clusterfs/jgi/groups/science/homes/ssiddik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-0.1.20/src/lib.rs /clusterfs/jgi/groups/science/homes/ssiddik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-0.1.20/src/version.rs /clusterfs/jgi/groups/science/homes/ssiddik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-0.1.20/src/version_req.rs
+
+/clusterfs/jgi/groups/science/homes/ssiddik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-0.1.20/src/lib.rs:
+/clusterfs/jgi/groups/science/homes/ssiddik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-0.1.20/src/version.rs:
+/clusterfs/jgi/groups/science/homes/ssiddik/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-0.1.20/src/version_req.rs:
