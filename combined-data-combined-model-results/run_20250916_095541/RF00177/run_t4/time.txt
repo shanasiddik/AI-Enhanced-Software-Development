@@ -1,0 +1,23 @@
+	Command being timed: "./src/cmsearch --cpu 4 /clusterfs/jgi/scratch/science/mgs/nelli/shana/ssuextract/resources/models/RF00177.cm /clusterfs/jgi/scratch/science/mgs/nelli/shana/AI-Enhanced-Software-Development/dataset/combined/combined_dataset.fasta"
+	User time (seconds): 533.97
+	System time (seconds): 2.86
+	Percent of CPU this job got: 392%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 2:16.90
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 3003620
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 1667572
+	Voluntary context switches: 7857
+	Involuntary context switches: 2105
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 1280
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
