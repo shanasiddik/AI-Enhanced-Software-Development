@@ -1,0 +1,54 @@
+Metagenome Creation Summary
+========================================
+
+Total metagenomes: 9
+Total reads per metagenome: 50,000
+Replicates per ratio: 3
+
+Files created:
+--------------------
+metagenome_euk70_phage30_rep1.fastq
+  Ratio: 70% eukaryotes, 30% phages
+  Replicate: 1
+  Reads: 9,216
+
+metagenome_euk70_phage30_rep2.fastq
+  Ratio: 70% eukaryotes, 30% phages
+  Replicate: 2
+  Reads: 9,216
+
+metagenome_euk70_phage30_rep3.fastq
+  Ratio: 70% eukaryotes, 30% phages
+  Replicate: 3
+  Reads: 9,216
+
+metagenome_euk50_phage50_rep1.fastq
+  Ratio: 50% eukaryotes, 50% phages
+  Replicate: 1
+  Reads: 9,216
+
+metagenome_euk50_phage50_rep2.fastq
+  Ratio: 50% eukaryotes, 50% phages
+  Replicate: 2
+  Reads: 9,216
+
+metagenome_euk50_phage50_rep3.fastq
+  Ratio: 50% eukaryotes, 50% phages
+  Replicate: 3
+  Reads: 9,216
+
+metagenome_euk30_phage70_rep1.fastq
+  Ratio: 30% eukaryotes, 70% phages
+  Replicate: 1
+  Reads: 9,216
+
+metagenome_euk30_phage70_rep2.fastq
+  Ratio: 30% eukaryotes, 70% phages
+  Replicate: 2
+  Reads: 9,216
+
+metagenome_euk30_phage70_rep3.fastq
+  Ratio: 30% eukaryotes, 70% phages
+  Replicate: 3
+  Reads: 9,216
+

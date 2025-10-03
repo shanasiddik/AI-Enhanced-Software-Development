@@ -1,0 +1,52 @@
+description: GeneVault classification profile with virus subtyping
+download:
+  faa: true
+  fna: true
+  parallel_downloads: 5
+  timeout: 300
+exclude:
+- Metazoa
+- Viridiplantae
+header_delimiter: '|'
+max_genome_size_mb: 100
+n_genomes: 1
+name: gvclass
+prefix:
+  default: UNK__
+  rules:
+  - pattern: d__Bacteria
+    prefix: BAC__
+  - pattern: d__Archaea
+    prefix: ARC__
+  - pattern: p__Nucleocytoviricota
+    prefix: NCLDV__
+  - pattern: p__Mirusviricota
+    prefix: MIRUS__
+  - pattern: d__Viruses
+    prefix: PHAGE__
+  - case_insensitive: true
+    pattern: virus
+    prefix: PHAGE__
+  - case_insensitive: true
+    pattern: viridae
+    prefix: PHAGE__
+  - pattern: Eukaryota
+    prefix: EUK__
+  - pattern: d__Eukaryota
+    prefix: EUK__
+  - pattern: Fungi
+    prefix: EUK__
+  - pattern: Metazoa
+    prefix: EUK__
+  - pattern: Viridiplantae
+    prefix: EUK__
+target_groups:
+- d__Bacteria
+- d__Archaea
+- d__Eukaryota
+- d__Viruses
+tax_level: genus
+taxonkit:
+  db_path: resources/taxonomy
+  enabled: true
+  format: k__{k};p__{p};c__{c};o__{o};f__{f};g__{g};s__{s}

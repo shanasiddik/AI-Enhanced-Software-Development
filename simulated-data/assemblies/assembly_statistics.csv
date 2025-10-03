@@ -1,0 +1,10 @@
+sample,total_contigs,total_length,n50,n90,max_length,min_length
+metagenome_euk30_phage70_rep1,19,58652,5684,1160,11817,1012
+metagenome_euk30_phage70_rep2,19,58652,5684,1160,11817,1012
+metagenome_euk30_phage70_rep3,19,58652,5684,1160,11817,1012
+metagenome_euk50_phage50_rep1,19,58652,5684,1160,11817,1012
+metagenome_euk50_phage50_rep2,19,58652,5684,1160,11817,1012
+metagenome_euk50_phage50_rep3,19,58652,5684,1160,11817,1012
+metagenome_euk70_phage30_rep1,19,58652,5684,1160,11817,1012
+metagenome_euk70_phage30_rep2,19,58652,5684,1160,11817,1012
+metagenome_euk70_phage30_rep3,19,58652,5684,1160,11817,1012
